@@ -126,15 +126,3 @@ This project was developed as part of the EPITECH curriculum and demonstrates pr
 
 - Requires access to `/etc/passwd` and `/etc/shadow` for user and password validation.
 - Limited error handling for edge cases in system calls.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## Authors
-
-- **COMBE--BRACCIALE Nielsen** - EPITECH Project 2024
